@@ -1,0 +1,10 @@
+bin/
+nbproject/
+tests/
+user_guide/
+.editorconfig
+back.gitignore
+.settings/
+.project
+.class
+.classpath
